@@ -22,6 +22,7 @@ GEM
     method_source (0.8.2)
     mime-types (2.4.3)
     multi_json (1.6.1)
+    multimap (1.1.3)
     netrc (0.8.0)
     pry (0.10.1)
       coderay (~> 1.1.0)
@@ -52,6 +53,7 @@ PLATFORMS
 DEPENDENCIES
   activerecord
   faker
+  multimap
   pry
   rest-client
   rspec (~> 3.1)
