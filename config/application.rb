@@ -2,7 +2,7 @@ require 'pathname'
 require 'sqlite3'
 require 'active_record'
 require 'logger'
-require 'twilio-ruby'
+require "rest-client"
 
 ACCOUNT_SID = ""
 AUTH_TOKEN = ""
